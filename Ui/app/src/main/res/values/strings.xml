@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RecyclerViewAnimated</string>
+
+    <string name="title1">Simple Title</string>
+    <string name= "description1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed faucibus turpis in eu mi bibendum.</string>
+    <string name= "description2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed faucibus turpis in eu mi bibendum.</string>
+    <string name= "description3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed faucibus turpis in eu mi bibendum.</string>
+    <string name= "date1">24/02/2019</string>
+
 </resources>
